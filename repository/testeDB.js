@@ -21,7 +21,7 @@ const select = async () => {
           console.table(result.rows);
      result.rows;
     } catch (err) {
-        console.log("NÃO FOI POSSIVEL CONECTAR A MERDA DO BANCO!!!!", err);
+        console.log("NÃO FOI POSSIVEL CONECTAR A  DO BANCO!!!!", err);
     }
 }
 
